@@ -18,7 +18,7 @@ public class bai1 {
     }
 
     public static double tinhdtich(String type, Scanner scanner) {
-        switch (type) {
+         switch (type) {
             case SHAPE_SQUARE:
                 return dtichhvuong(scanner);
             case SHAPE_TRIANGLE:
